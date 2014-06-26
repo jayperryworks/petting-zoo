@@ -1,7 +1,9 @@
 # jekyll settings
 name: The Petting Zoo
 tag: "Share & Smile"
-url: 'http://pettingzooplush.com/staging'
+url: 'http://pettingzooplush.com/staging' # staging
+#url: 'http://pettingzooplush.com' # live
+#url: 'http://localhost:4000' # local
 baseurl: 
 permalink: /:categories/:title/
 
@@ -166,7 +168,7 @@ prose:
           help: "Enter the extension (.jpg, .png, etc.) of the uploaded print catalog images."
       - name: "numslides"
         field:
-          element: "number"
+          element: "text"
           label: "Number of PDF Images"
           help: "Enter the number of PDF images for this catalog, ie the number of slides in the carousel."
       - name: "spread"

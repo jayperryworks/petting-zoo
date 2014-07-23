@@ -1,7 +1,7 @@
 ---
 category: products
 layout: product
-published: false
+published: true
 title: "Get Well Soon Delia & Digby Dinos"
 thumb: "https://s3.amazonaws.com/pettingzoo-website/products/catalogs/everyday/Product+Images/digbyDeliaDinos.jpg"
 collection: get well soon

@@ -1,8 +1,8 @@
 ---
 category: products
 layout: product
-published: false
-title: "\"Feel Better\" Musical Frog"
+published: true
+title: ""
 catalog: everyday
 collection: get well soon
 thumb: " \t https://s3.amazonaws.com/pettingzoo-website/products/catalogs/everyday/Product+Images/806012-feelbetterfrog.jpg"

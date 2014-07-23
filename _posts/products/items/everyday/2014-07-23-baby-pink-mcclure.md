@@ -1,7 +1,7 @@
 ---
 category: products
 layout: product
-published: false
+published: true
 title: Baby Pink McClure
 thumb: "https://s3.amazonaws.com/pettingzoo-website/products/catalogs/everyday/Product+Images/411164_6_MyFirstTeddy_girl_McClure.jpg"
 catalog: everyday

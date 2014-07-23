@@ -1,7 +1,7 @@
 ---
 category: products
 layout: product
-published: false
+published: true
 title: Baby Blue McClure
 catalog: everyday
 collection: baby
